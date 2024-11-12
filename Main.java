@@ -1,6 +1,10 @@
 public class Main {
-    public static void Main(system.in){
-        system.out.println("hello")
+    public static void Main(String[] args){
+        System.out.println("hello");
+System.out.println(‘welcomme”);
+
+
+
     }
 
 }
