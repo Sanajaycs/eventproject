@@ -4,6 +4,11 @@ public class Main {
 System.out.println(‘welcomme”);
 System.out.println("to my area");
         System.out.println("add");
+        int a=1;
+        int b=10;
+        int add=0;
+        add =a+b;
+        
     }
 
 }
