@@ -3,9 +3,7 @@ public class Main {
         System.out.println("hello");
 System.out.println(‘welcomme”);
 System.out.println("to my area");
-        
-
-
+        System.out.println("add");
     }
 
 }
